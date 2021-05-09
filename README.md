@@ -44,4 +44,3 @@ In order to make a good prediction I converted the categorical variables to numb
 
 ![Imagen_text](https://github.com/Carmen-r/W7-Kaggle_competition/blob/main/images/conclusion.jpg)
 
-![Imagen_text](https://github.com/Carmen-r/W7-Kaggle_competition/blob/main/images/Comparation.jpg)
