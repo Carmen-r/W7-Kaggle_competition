@@ -17,25 +17,25 @@ Predicting diamond prices using Machine Learning models.
 
 #### Quantitative variables 
 
-carat: weight of the diamond
+`carat`: weight of the diamond
 
-x: length in mm
+`x`: length in mm
 
-y: width in mm
+`y`: width in mm
 
-z: depth in mm
+`z`: depth in mm
 
-depth: total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79)
+`depth`: total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79)
 
-table: width of top of diamond relative to widest point (43--95)
+`table`: width of top of diamond relative to widest point (43--95)
 
 #### Qualitative variables
 
-cut: quality of the cut (Fair, Good, Very Good, Premium, Ideal).
+`cut`: quality of the cut (Fair, Good, Very Good, Premium, Ideal).
 
-color: diamond colour
+`color`: diamond colour
 
-clarity: a measurement of how clear the diamond is
+`clarity`: a measurement of how clear the diamond is
 
 There were no null values, the only thing that was needed was to convert the categorical variables to numerical ones by means of a dictionary.
 
