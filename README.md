@@ -37,10 +37,28 @@ color: diamond colour
 
 clarity: a measurement of how clear the diamond is
 
-In order to make a good prediction I converted the categorical variables to numbers using a dictionary
+There were no null values, the only thing that was needed was to convert the categorical variables to numerical ones by means of a dictionary.
 
 
 ### Models
+` Linear Regression`
+
+`Ridge`
+
+`Lasso` 
+
+`SGDRegressor`
+
+`KNeighborsRegressor`
+
+`GradientBoostingRegressor`
+
+`RandomForest`:  We did the Tune Hiperparameters with `Hyperopt`
+
+`XGBRegressor`: We did the Tune Hiperparameters with `GridSearchCV`
 
 ![Imagen_text](https://github.com/Carmen-r/W7-Kaggle_competition/blob/main/images/conclusion.jpg)
 
+### Conclusion
+
+After comparing the models we can affirm that in this case the best option has turned out to be the `XGBRegressor`. For this we have used `GridSearchCV` which has allowed us to choose the best parameters.
