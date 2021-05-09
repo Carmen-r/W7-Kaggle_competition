@@ -57,7 +57,7 @@ There were no null values, the only thing that was needed was to convert the cat
 
 `XGBRegressor`: We did the Tune Hiperparameters with `GridSearchCV`
 
-![Imagen_text](https://github.com/Carmen-r/W7-Kaggle_competition/blob/main/images/conclusion.jpg)
+![Imagen_text](https://github.com/Carmen-r/W7-Kaggle_competition/blob/main/images/resume.jpg)
 
 ### Conclusion
 
